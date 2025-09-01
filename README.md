@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Johan 👨‍💻  
+# 👋 ¡Hola! soy Johan 👨‍💻  
 
 Soy **Analista de Datos** en formación con experiencia en **Python, SQL, Excel y Power BI**, enfocado en transformar datos en información valiosa para la toma de decisiones.  
 Actualmente estoy construyendo un portafolio con proyectos de automatización, análisis de datos y dashboards interactivos.  
